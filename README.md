@@ -29,7 +29,7 @@
 * python
  ---
 # 지금 학습중인 언어
-<img src=Linux.jfif width=200 height=150>  
+<img src=img.jpg width=200 height=150>  
 * 리눅스
   
 ---
