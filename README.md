@@ -18,7 +18,7 @@
 * #### IDE :         Eclipse 2022 09, Postman, MySQL Workbanch 6.3  
 * #### API :         KAKAO/NAVER login, Naver MAP, coolsms(문자) API    
 
-## 주요 기능   
+# Experience   
 * #### 카카오/네이버 소셜 로그인
 * #### 가게 및 상품 등록/수정시 오류 처리
 * #### 거리/가격/시간/별점 별 필터 기능
