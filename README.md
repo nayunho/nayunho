@@ -1,4 +1,4 @@
-<img src=프로파일 이미지.jpg width=300 height=300>    
+<img src=프로파일이미지.jpg width=300 height=300>    
 
 # 재고30   
 ## 지도 속 떨이 마켓      
