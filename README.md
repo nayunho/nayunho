@@ -27,17 +27,4 @@
 * #### 아이디 또는 비밀번호 찾을떄 인증번호 보내는 기능
 * #### 즐겨찾기한 가게 표시 및 알림/문의/예약/예약내역 확인 기능
 
-
-
-## ERD  
-<img src=ERD설계.png width=850 height=450>    
-
-
-## 시연 영상
-### [재고30][github]  
----
-
-
-
-
- [github]: https://github.com/nayunho/
+  
