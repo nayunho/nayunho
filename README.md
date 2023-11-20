@@ -1,4 +1,4 @@
-<img src=재고30.png width=850 height=450>    
+<img src=프로필파일이미지0.png width=300 height=450>    
 
 # 재고30   
 ## 지도 속 떨이 마켓      
