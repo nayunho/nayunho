@@ -1,10 +1,10 @@
 <img src=image.jpg width=300 height=300>    
 
 # Introduce     
-* ### 이름: 나윤호  
-* ### 출생 년도: 1999.09.28   
-* ### 이메일: ring147@naver.com    
-* ### 전화번호: 010 - 8586 - 4484   
+* ### 이름:  나윤호  
+* ### 출생 년도:  1999.09.28   
+* ### 이메일:  ring147@naver.com    
+* ### 전화번호:  010 - 8586 - 4484   
 
 ---
 # Technology stack  
