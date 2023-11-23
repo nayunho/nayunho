@@ -7,7 +7,7 @@
 * ### 전화번호:  010 - 8586 - 4484   
 
 # Technology stack  
-* FE(2명)-BE(2명)   
+
 
 # Projects   
 * ### 재고30
