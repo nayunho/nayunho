@@ -32,5 +32,5 @@
 
 
 
+ [github]: https://github.com/nayunho/2023_capston_project
 
- [github]: https://youtu.be/ReAkQWKRqVc
