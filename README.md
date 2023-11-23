@@ -41,4 +41,4 @@
 
 
  [github1]: https://github.com/nayunho/2023_capston_project
- [github2]: https://github.com/nayunho/2023_capston_project
+ [github2]: https://github.com/nayunho/2022_share_project_S.S.S
