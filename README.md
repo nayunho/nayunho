@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-yellow?style=flat-square&logo=MySQL&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/MySQL-0769AD?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/aws-orange?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
   </p>
 <br/>
