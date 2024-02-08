@@ -1,5 +1,3 @@
-<img src=image.jpg width=300 height=300>    
-
 # Introduce     
 * ### 이름:  나윤호  
 * ### 출생 년도:  1999.09.28   
