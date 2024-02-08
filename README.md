@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/aws-orange??style=for-the-badge&logo=AWS&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/aws-orange?style=for-the-badge&logo=AWS&logoColor=white"/></a>
   </p>
 <br/>
 출처: https://icandoitprogramming.tistory.com/entry/GitHub-꾸미기 [Back-End:티스토리]
