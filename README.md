@@ -7,11 +7,7 @@
 * ### 전화번호:  010 - 8586 - 4484   
 
 # Technology stack  
-|기간|출신학교명|전공|졸업구분|
-|:---:|:---:|:---:|:---:|
-|2014~2016|판곡중학교||졸업|
-|2016~2018|호평고등학교||졸업|
-|2018~|한림대학교|스마트 IOT|재학|
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 
 # Projects   
 * ### 재고30
@@ -55,7 +51,7 @@
 * #### 웹디자인기능사     
 
 # Experience  
-* #### (2024.01 ~ 2024.06)AWS클라우드 기반 자바(JAVA) 웹 개발자 수료(국비지원)
+* #### (2024.01 ~ 2024.07)웹 서비스 풀스택 개발자(자바,파이싼 AI 챗봇)(국비지원)
 * #### (~ 2023.12 )한림대학교 졸업
 * #### (23.01 ~ 23.03) 한림대학교 동계 Pre - Capstone Design 교육 이수
 * #### (2019.04 ~ 2020.11)군복무
