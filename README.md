@@ -4,7 +4,7 @@
 * ### 이메일:  ring147@naver.com    
 * ### 전화번호:  010 - 8586 - 4484
 
-[![nayunho's github stats](https://github-readme-stats.vercel.app/api?username=nayunho&show_icons=true&theme=tokyonight)](https://github.com/gyoogle/github-readme-stats)               
+[![nayunho's github stats](https://github-readme-stats.vercel.app/api?username=nayunho&show_icons=true&theme=tokyonight)](https://github.com/gyoogle/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![nayunho](https://github-readme-stats.vercel.app/api/top-langs/?username=nayunho&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=tokyonight)](https://github.com/nayunho)
 
 # Technology stack  
