@@ -7,8 +7,6 @@
 [![nayunho's github stats](https://github-readme-stats.vercel.app/api?username=nayunho&show_icons=true&theme=tokyonight)](https://github.com/gyoogle/github-readme-stats)&nbsp;&nbsp;
 [![nayunho](https://github-readme-stats.vercel.app/api/top-langs/?username=nayunho&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=tokyonight)](https://github.com/nayunho)
 
-# Social
- <a href="https://www.instagram.com/naa_yunhoo"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/naa_yunhoo"/></a>
 
 # Technology stack  
 <h3 align='center'>🌱 Beck-end Stack 🌱</h3>
@@ -35,7 +33,8 @@
 ## my experience
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/GITHUB-black?&style=for-the-badge&logo=GITHUB&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-black?&style=for-the-badge&logo=GIT&logoColor=white" />  <img src="https://img.shields.io/badge/MONGODB-6DB33F?&style=for-the-badge&logo=MONGODB&logoColor=white" />  <img src="https://img.shields.io/badge/LINUX-yellow?&style=for-the-badge&logo=LINUX&logoColor=white" />  <img src="https://img.shields.io/badge/BOOTSTRAP-purple?&style=for-the-badge&logo=BOOTSTRAP&logoColor=white" />  <img src="https://img.shields.io/badge/APACHE TOMCAT-ECD53F?&style=for-the-badge&logo=APACHE TOMCAT&logoColor=white" />  <img src="https://img.shields.io/badge/C-blue?&style=for-the-badge&logo=C&logoColor=white" />
 
-
+# Social
+ <a href="https://www.instagram.com/naa_yunhoo"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/naa_yunhoo"/></a>
 
 # Projects   
 * ### 재고30
