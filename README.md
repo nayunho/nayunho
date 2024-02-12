@@ -3,6 +3,12 @@
 * ### 출생 년도:  1999.09.28   
 * ### 이메일:  ring147@naver.com    
 * ### 전화번호:  010 - 8586 - 4484
+<h3 align="center"><b>💌 Social 💌 </b></h3>
+</br>
+<p align="center">
+<a href="mailto:ring147@naver.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ring147@naver.com"/></a>
+<a href="https://www.instagram.com/naa_yunhoo"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/naa_yunhoo"/></a>
+</p>
 
 [![nayunho's github stats](https://github-readme-stats.vercel.app/api?username=nayunho&show_icons=true&theme=tokyonight)](https://github.com/gyoogle/github-readme-stats)&nbsp;&nbsp;
 [![nayunho](https://github-readme-stats.vercel.app/api/top-langs/?username=nayunho&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=tokyonight)](https://github.com/nayunho)
