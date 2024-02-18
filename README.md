@@ -35,7 +35,7 @@
 
 # Social
  <a href="https://www.instagram.com/naa_yunhoo"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/naa_yunhoo"/></a>
- <a href="https://www.notion.so/invite/1af393b333323322349d25db177f82374ae6660f"><img src="https://img.shields.io/badge/notion-ECD53F?&style=for-the-badge&logo=notion&logoColor=white" /></a>
+ <a href="https://www.notion.so/c1fab200163649c0b71e9d731c30cfe8?v=321a74dd9d804cc5a5e4d140a44391f7"><img src="https://img.shields.io/badge/notion-ECD53F?&style=for-the-badge&logo=notion&logoColor=white" /></a>
  
 
 
