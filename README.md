@@ -37,7 +37,7 @@
  <a href="https://www.instagram.com/naa_yunhoo"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/naa_yunhoo"/></a>
  <a href="https://www.notion.so/c1fab200163649c0b71e9d731c30cfe8?v=321a74dd9d804cc5a5e4d140a44391f7"><img src="https://img.shields.io/badge/notion-ECD53F?&style=for-the-badge&logo=notion&logoColor=white" /></a>
 https://www.notion.so/cdf7f262aed34125970c6bc4d5621a3b?v=1b6f62a73b2842e686530092d66d323c
-
+https://omniscient-midnight-d8d.notion.site
 
 # Projects   
 * ### 재고30
