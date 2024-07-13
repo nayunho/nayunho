@@ -39,6 +39,16 @@
 
 
 # Projects   
+* ### CARINI
+  2024.05 ~ 2024.07 (2개월)
+  
+  BE-2, FE-2 (4인 팀프로젝트)
+  
+  ### 주요 기능  --> [더보기][github3]
+  1  카카오/네이버/구글 소셜 로그인
+  
+
+---
 * ### 재고30
   2023.09 ~ 2023.11 (3개월)
   
@@ -76,6 +86,7 @@
 ---
 
 # Certificate   
+* #### 정보처리기사
 * #### 정보처리기능사
 * #### 웹디자인기능사     
 
@@ -91,3 +102,4 @@
 
  [github1]: https://github.com/nayunho/2023_capston_project
  [github2]: https://github.com/nayunho/2022_share_project_S.S.S
+ [github3]: https://github.com/nayunho/carini
